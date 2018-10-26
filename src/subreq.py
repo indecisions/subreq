@@ -10,8 +10,7 @@ def Main():
 	
 	window = tk.Tk()
 	window.configure(background="black")
-	window.title("Subreq
-                     ")
+	window.title("Subreq")
 	window.geometry("620x520")
 
 	title = tk.Label(bg="black", fg="white", text="skrt skrt")
