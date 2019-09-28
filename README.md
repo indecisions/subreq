@@ -1,2 +1,2 @@
 # subreq
-Rather, peculiar python html data output
+Python web scraper.
