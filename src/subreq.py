@@ -48,5 +48,4 @@ def Main():
 
 Main()
 
-#made by @ja8den
 
